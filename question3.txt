@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Git branches allow you to point to a certain stage you're at (the same commit you're already on) meaning you can work from here without compromising the master branch. 
