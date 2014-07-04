@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+By calling 'git fetch upstream' you can fetch any new changes from the original repository.
